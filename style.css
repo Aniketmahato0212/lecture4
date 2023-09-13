@@ -1,0 +1,76 @@
+/* body{
+    font-family: 'Concert One', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Quattrocento Sans', sans-serif;
+font-family: 'Secular One', sans-serif;  
+} */
+header{
+      height: 100vh;
+      background-image: url('https://images.pexels.com/photos/461593/pexels-photo-461593.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+      color: aliceblue;  
+}
+.container{
+    width: 80%;
+    margin: auto;
+    height: 100%;
+}
+.card_section{
+    padding: 5%;
+    border: 1px solid red;
+}
+.card{
+    margin: 10%;
+    padding: 10%;
+    border: 1px solid green;
+    background-color: yellow;
+
+}
+.container{
+    display: flex;
+    align-items: center;
+
+}
+.header-quote{
+    color: black;
+    padding: 0px;
+    margin: 50px;
+    margin-left: 520px;
+    font-weight: bold;
+    width: fit-content;
+    font-size: 20px;
+    text-align: center;
+    font-size: 10;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+
+}
+.header-title{
+    font-size: 100px;
+    text-align: center ;
+    color: black;
+    margin-left: 450px;
+    align-items: center;
+    
+}
+.subtitle{
+    font-size: 20px;
+    color: black;
+    margin-left: 600px;
+    font-weight: 100;
+    align-items: center;
+
+}
+.subtitle-down{
+    font-size:15px;
+    color:white;
+    margin-left: 600px;
+    font-weight: 100;
+background-color: black;
+background-position: center;
+background-size: 20vh;
+align-items: center;
+}
